@@ -15,21 +15,28 @@ This repository elaborates on the techniques in deep learning that is used for c
 
 Following technologies are adopted in order to classify the Cifar 10 dataset.
 
-1. Python
+1. Python-
 Python version python-3.5.4-amd64 was used.
 
-2. Tensorflow
+2. Tensorflow-
 Tensorflow version 1.11.0 was used.
-3. Keras
+
+3. Keras-
 Keras version 2.2.4 was used.
 Keras is an open source neural network Python library which can run on top of other machine learning libraries like TensorFlow, CNTK or Theano
 
 4. IDE- PyCharmIDE
+
 Six deep learning techniques was used. They are
 
 I. Fully Connected Network
+
 II. Batch Normalization
+
 III. Layer Normalization
+
 IV. Dropout
+
 V. L1 Regression (Lasso Regression)
+
 VI. L2 Regression (Ridge Regression)
